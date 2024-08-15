@@ -265,6 +265,7 @@
         ],
         "action_delay_resample_time": 5.0,
         "action_scale": 0.3,
+        "computer_clip_torque": true,
         "control_type": "P",
         "damping": {
             "joint": 1.1
