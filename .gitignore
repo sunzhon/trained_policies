@@ -1,6 +1,7 @@
 *.active
 *.txt
-*
+events.out*
+
 !*.json
 !*.pt
 !.gitignore
